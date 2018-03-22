@@ -14,5 +14,6 @@
 3. Откройте ее с помощью любого браузера.
 
 *[Пример готовой визитки(код)](https://github.com/OlgaCoskun/vizitka_from_html_template/blob/master/2018-03-22_13-28.html)*
+*[Пример готовой визитки(pic)](https://github.com/OlgaCoskun/vizitka_from_html_template/blob/master/example.jpg)*
 
 ##### Автор программы: Olga Coşkun
